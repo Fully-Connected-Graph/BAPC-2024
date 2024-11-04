@@ -13,7 +13,7 @@ This year, the BAPC is organized by [**Cover**](https://svcover.nl/), the study 
 - [BAPC solutions](/bapc/solutions.pdf)
 - [BAPC testdata and solutions (204MB)][bapc-zip]
 - [BAPC scoreboard](/scoreboard/index.html)
-- [BAPC photos](https://svcover.nl/photos/1603)q (by Cover)
+- [BAPC photos](https://svcover.nl/photos/1603) (by Cover)
 
 ### Preliminaries
 
